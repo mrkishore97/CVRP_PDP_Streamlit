@@ -73,13 +73,9 @@ This application uses the following workflow:
 - **OR-Tools**: Google's optimization tools for solving the routing problem
 - **Pandas**: For data manipulation and display
 
-## License
-
-[MIT License](LICENSE)
-
 ## Author
 
-[Your Name]
+Kishore Kumar
 
 ## Acknowledgements
 
